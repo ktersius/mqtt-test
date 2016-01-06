@@ -1,0 +1,11 @@
+{
+  "name": "mqtt-test",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "4.0.x",
+    "mosca": "^0.32.1",
+    "mqtt": "^1.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {}
+}
